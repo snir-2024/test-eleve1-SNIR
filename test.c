@@ -2,7 +2,9 @@
 #include "stdlib.h"
 
 
-void main()
+int main()
 {
 	printf("dede");
+	return 0;
 }
+
